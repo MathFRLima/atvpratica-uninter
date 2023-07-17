@@ -1,0 +1,45 @@
+section {
+    background-color: #DAF5FF;
+}
+
+h1 {
+    text-align: center;
+    padding: 25px 0;
+    font-size: 50px;
+}
+
+.caixa {
+    margin: 0 100px;
+
+}
+
+.box {
+
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 0 5px;
+}
+
+.box h2 {
+    font-size: 35px;
+}
+
+.box img {
+    padding: 10px 0;
+    width: 100px;
+}
+
+.box p {
+    font-size: 20px;
+}
+
+.box a {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.box a:hover {
+    color: blue;
+    text-decoration: underline;
+    transition: ease-in-out .5s;
+}

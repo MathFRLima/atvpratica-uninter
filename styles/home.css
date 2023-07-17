@@ -1,0 +1,43 @@
+section {
+    background-color: #DAF5FF;
+}
+
+.sobre {
+
+    height: 100vh;
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.about {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-topo {
+    margin-bottom: 150px;
+}
+
+.about-topo-nome {
+    font-size: 8rem;
+}
+
+.about-topo-descricao {
+    font-size: 2rem;
+}
+
+.about-descricao-titulo {
+    font-size: 3rem;
+}
+
+.about-descricao-desc {
+    font-size: 1.5rem;
+}
+
+.minha-foto {
+    width: 100%;
+    border-radius: 20px;
+}

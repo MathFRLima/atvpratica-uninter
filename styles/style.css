@@ -1,0 +1,39 @@
+header { 
+    background-color: #1D267D;
+}
+
+.container {
+    margin: 0 100px;
+}
+
+.menu {
+
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 120px;
+    padding-left: 5px;
+}
+
+.navbar {
+    padding-right: 5px;
+}
+
+.menu-item {
+    color: #A7EDE7;
+    padding: 10px;
+    border: 1px solid #A7EDE7;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.menu-item:hover {
+    color: #45CFDD;
+    border-color: #45CFDD;
+    text-decoration: underline;
+    transition: ease-in-out .5s;
+}
